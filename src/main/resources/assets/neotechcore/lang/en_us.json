@@ -1,0 +1,13 @@
+{
+  "itemGroup.neotechcore": "Example Mod Tab",
+  "block.neotechcore.example_block": "Example Block",
+  "item.neotechcore.example_item": "Example Item",
+
+  "neotechcore.configuration.title": "NeoTech Core Configs",
+  "neotechcore.configuration.section.neotechcore.common.toml": "NeoTech Core Configs",
+  "neotechcore.configuration.section.neotechcore.common.toml.title": "NeoTech Core Configs",
+  "neotechcore.configuration.items": "Item List",
+  "neotechcore.configuration.logDirtBlock": "Log Dirt Block",
+  "neotechcore.configuration.magicNumberIntroduction": "Magic Number Text",
+  "neotechcore.configuration.magicNumber": "Magic Number"
+}
